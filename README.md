@@ -1,2 +1,2 @@
 # camacuc
- Dataset de la revista Camacuc
+ Dataset de la revista infantil [Camacuc](https://camacuc.com/).
